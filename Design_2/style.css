@@ -1,0 +1,37 @@
+label{
+    font-weight:bold;
+    font-size:small;
+}
+
+.asterisk{
+    color: red;
+    font-weight: bold;
+}
+
+div{
+    width: 190px;
+    height: 25px;
+    border: 1px solid gray;
+}
+
+.first_lastname{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-small;
+}
+
+section{
+    display:flex;
+    gap:1.3rem;
+}
+
+.button {
+    background-color: white;
+    border: 1.2px solid black;
+    border-radius: 50%;
+    height: 12px;
+  }
+
+td,th{
+    text-align: center;
+    font-size: small;
+}
